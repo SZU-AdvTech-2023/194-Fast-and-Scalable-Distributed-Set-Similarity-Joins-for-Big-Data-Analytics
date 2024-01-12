@@ -1,0 +1,8 @@
+@inproceedings{REPO194,
+    author = "Rong, Chuitian and Lin, Chunbin and Silva, Yasin N and Wang, Jianguo and Lu, Wei and Du, Xiaoyong",
+    booktitle = "2017 IEEE 33rd International Conference on Data Engineering (ICDE)",
+    organization = "IEEE",
+    pages = "1059--1070",
+    title = "{Fast and Scalable Distributed Set Similarity Joins for Big Data Analytics}",
+    year = "2017"
+}
